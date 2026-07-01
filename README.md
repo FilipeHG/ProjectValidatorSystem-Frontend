@@ -1,2 +1,2 @@
 # ProjectValidatorSystem-Frontend
-Dashboard para gerenciamento simplificado de projetos
+Project Validator System - Dashboard para gerenciamento simplificado de projetos
