@@ -170,7 +170,7 @@ VITE_APP_NAME=Project Validator System
 
 VITE_API_BASE_URL=http://localhost:3000/api
 
-VITE_API_JWT_TOKEN=Bearer eyJhbGciOiJIUzI1NiIs...
+VITE_API_JWT_TOKEN=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwcm9qZWN0IjoiUHJvamVjdFZhbGlkYXRvclN5c3RlbSIsInVzZXIiOiJGaWxpcGVIRyIsImVtYWlsIjoiZmlsaXBlaC5nb25jYWx2ZXNAZ21haWwuY29tIiwiaXNzIjoiUHJvamVjdFZhbGlkYXRvclN5c3RlbSIsImF1ZCI6IlByb2plY3RWYWxpZGF0b3JTeXN0ZW0iLCJleHAiOjQ5Mzg2MjQwMDB9.aSDt-Pn5ebLXdArccA1WMGemznJa_Vv7hkwLqh2LvwE
 ```
 
 ---
