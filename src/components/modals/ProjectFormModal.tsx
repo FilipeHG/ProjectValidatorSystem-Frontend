@@ -206,13 +206,13 @@ export default function ProjectFormModal({
                       payload: { status: e.target.value as any },
                     });
                   }}
-                  className="flex h-10 w-full rounded-md border border-slate-300 dark:border-slate-700 bg-transparent px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 dark:text-slate-100"
+                  className="flex h-10 w-full rounded-md border border-slate-300 dark:border-slate-700 bg-white dark:bg-slate-800 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 dark:text-slate-100"
                 >
-                  <option value="Em análise">Em análise</option>
-                  <option value="Aprovado">Aprovado</option>
-                  <option value="Em andamento">Em andamento</option>
-                  <option value="Encerrado">Encerrado</option>
-                  <option value="Cancelado">Cancelado</option>
+                  <option className="dark:bg-slate-800" value="Em análise">Em análise</option>
+                  <option className="dark:bg-slate-800" value="Aprovado">Aprovado</option>
+                  <option className="dark:bg-slate-800" value="Em andamento">Em andamento</option>
+                  <option className="dark:bg-slate-800" value="Encerrado">Encerrado</option>
+                  <option className="dark:bg-slate-800" value="Cancelado">Cancelado</option>
                 </select>
                 <p className="text-xs text-slate-500">
                   O status é alterado imediatamente ao selecionar.
